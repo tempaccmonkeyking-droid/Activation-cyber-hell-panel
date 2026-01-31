@@ -22,5 +22,11 @@
         "key": "lucifer",
         "expirydate": "12-12-2050",
         "Allowoffline": false
+    },
+    {
+        "device_id": "20066e3f23a47f83",
+        "key": "cyberhell",
+        "expirydate": "12-12-2050",
+        "Allowoffline": false
     }
 ]
