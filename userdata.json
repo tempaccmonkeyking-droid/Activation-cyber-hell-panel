@@ -28,11 +28,5 @@
         "key": "cyberhell",
         "expirydate": "12-12-2050",
         "Allowoffline": false
-    },
-    {
-        "device_id": "6fc9d5ba5591d8e8",
-        "key": "ayanbiswas",
-        "expirydate": "05-02-2026",
-        "Allowoffline": false
     }
 ]
