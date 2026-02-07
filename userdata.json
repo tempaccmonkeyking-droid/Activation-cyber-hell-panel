@@ -28,11 +28,5 @@
         "key": "cyberhell",
         "expirydate": "12-12-2050",
         "Allowoffline": false
-    },
-    {
-        "device_id": "fb5646b98b82abab",
-        "key": "Lord@OfHell",
-        "expirydate": "14-02-2026",
-        "Allowoffline": false
     }
 ]
