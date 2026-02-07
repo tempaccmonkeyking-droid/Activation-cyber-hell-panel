@@ -13,19 +13,13 @@
     },
     {
         "device_id": "732c3fe28cd342de",
-        "key": "lucifello",
+        "key": "TOM",
         "expirydate": "12-12-2050",
         "Allowoffline": false
     },
     {
         "device_id": "e43756633cb83fc8",
         "key": "lucifer",
-        "expirydate": "12-12-2050",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "20066e3f23a47f83",
-        "key": "cyberhell",
         "expirydate": "12-12-2050",
         "Allowoffline": false
     }
