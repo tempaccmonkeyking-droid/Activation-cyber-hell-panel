@@ -12,14 +12,20 @@
         "Allowoffline": false
     },
     {
-        "device_id": "732c3fe28cd342de",
-        "key": "TOM",
+        "device_id": "5d6bf94500832e2e",
+        "key": "TOMxLUCIFER",
         "expirydate": "12-12-2050",
         "Allowoffline": false
     },
     {
         "device_id": "e43756633cb83fc8",
         "key": "lucifer",
+        "expirydate": "12-12-2050",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "732c3fe28cd342de",
+        "key": "TOM",
         "expirydate": "12-12-2050",
         "Allowoffline": false
     }
